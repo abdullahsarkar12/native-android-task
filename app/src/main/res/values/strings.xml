@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Native Android Task</string>
+    <string name="label_user_id">User Id :</string>
+    <string name="label_id">Id :</string>
+    <string name="label_title">Title :</string>
+    <string name="title">delectus aut autem</string>
+    <string name="label_completed">Completed :</string>
+    <string name="complete_status">True</string>
+</resources>
